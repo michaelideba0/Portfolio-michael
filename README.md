@@ -22,7 +22,7 @@ It showcases my web development projects, skills, and contact information.
 ---
 
 ## 🚀 Live Demo
-🔗 [View Online](https://michaelideba0.github.io/portfolio-website)
+🔗 [View Online](https://michaelideba0.github.io/Portfolio-michael/)
 
 
 
